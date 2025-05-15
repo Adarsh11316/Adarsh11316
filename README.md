@@ -2,7 +2,7 @@
 
 - 👀 I’m passionate about managing and solving software-related problems  
 - 🌱 Currently learning backend development with **Go (Golang)**  
-- 💞️ I’m looking to collaborate on **backend projects, APIs, and system design challenges**  
+- 💞️ I’m looking to collaborate on **backend projects, APIs, and system design challengesand also i am interested in android development**  
 - 📫 Reach me at: **adarshpandey11316@gmail.com**  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: I enjoy turning complex problems into simple, scalable solutions!
